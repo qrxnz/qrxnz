@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gopher](./party-gopher.gif)
+
 <!--
 **qrxnz/qrxnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
