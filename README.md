@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![gopher](./party-gopher.gif)\
+![gopher](./party-gopher.gif)
 
