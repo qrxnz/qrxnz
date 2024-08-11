@@ -6,10 +6,12 @@
 * Matrix `@qrxnz:matrix.org`
 * Mastodon `https://mastodon.social/@qrxnz`
 
-### 📈 Stats
+### 🌎 I can speak
 
-![qrxnz's GitHub stats](https://github-readme-stats.vercel.app/api?username=qrxnz&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qrxnz&layout=compact&theme=transparent)
+* 🇵🇱 Polish
+* 🇺🇸 English
+* 🇪🇸 Spanish (Learning)
+
 ### 🔥 Development stack
 
 <p align="center">
@@ -17,3 +19,8 @@
     <img src="https://skillicons.dev/icons?i=git,neovim,docker,go,bash,nix,py,js,bun,vue,nuxtjs,tailwind" />
   </a>
 </p>
+
+### 📈 Stats
+
+![qrxnz's GitHub stats](https://github-readme-stats.vercel.app/api?username=qrxnz&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qrxnz&layout=compact&theme=transparent)
