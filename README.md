@@ -1,10 +1,10 @@
 ## Hola 👋
 
-### 🕊️ You can reach me at
+### 📨 You can reach me at
 
-* Mastodon `https://mastodon.social/@qrxnz`
-* Matrix `@qrxnz:matrix.org`
 * Email send@qrxnz.dev
+* Matrix `@qrxnz:matrix.org`
+* Mastodon `https://mastodon.social/@qrxnz`
 
 ### 🔥 Development stack
 
