@@ -8,7 +8,7 @@
 
 ### 📈 Stats
 
-![qrxnz's GitHub stats](https://github-readme-stats.vercel.app/api?username=qrxnza&show_icons=true&theme=transparent)
+![qrxnz's GitHub stats](https://github-readme-stats.vercel.app/api?username=qrxnz&show_icons=true&theme=transparent)
 
 ### 🔥 Development stack
 
