@@ -6,6 +6,10 @@
 * Matrix `@qrxnz:matrix.org`
 * Mastodon `https://mastodon.social/@qrxnz`
 
+### 📈 Stats
+
+![qrxnz's GitHub stats](https://github-readme-stats.vercel.app/api?username=qrxnza&show_icons=true&theme=transparent)
+
 ### 🔥 Development stack
 
 <p align="center">
