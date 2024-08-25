@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,neovim,docker,go,bash,nix,py,js,ts,bun,elysiajs,vue,nuxtjs,tailwind,playwright" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,go,bash,nix,py,js,ts,bun,elysia,vue,nuxtjs,tailwind,playwright" />
   </a>
 </p>
