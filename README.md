@@ -1,5 +1,7 @@
 ## Hola 👋
 
+Hi, I’m qrxnz. I’m interested in cybersecurity and I’m also a big fan of web3 and FOSS (Free and Open Source Software). In my free time, I also enjoy solving challenges. You can find me at:
+
 - HackTheBox \
 \
 ![hackthebox-profile](https://www.hackthebox.com/badge/image/1104368)
