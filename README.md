@@ -1,6 +1,7 @@
 ## Hola 👋
 
 ![hackthebox-profile](https://www.hackthebox.com/badge/image/1104368)
+![tryhackme-profile](https://tryhackme-badges.s3.amazonaws.com/qrxnz.png)
 
 ### 📨 You can reach me at
 
