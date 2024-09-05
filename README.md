@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Hi, I’m qrxnz. I’m interested in cybersecurity and I’m also a big fan of web3 and FOSS (Free and Open Source Software). In my free time, I also enjoy solving challenges \
+Hi, I’m qrxnz. I’m interested in cybersecurity and I’m also a big fan of web3 and FOSS (Free and Open Source Software). In my free time, I also enjoy solving challenges  
 
 You can find me at:
 
