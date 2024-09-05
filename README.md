@@ -1,5 +1,7 @@
 ## Hola 👋
 
+![hackthebox-profile](https://www.hackthebox.com/badge/image/1104368)
+
 ### 📨 You can reach me at
 
 * Email send@qrxnz.dev
