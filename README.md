@@ -8,7 +8,7 @@ Hi, I’m qrxnz. I’m interested in cybersecurity and I’m also a big fan of w
 
 - TryHackMe \
 \
-![tryhackme-profile](https://tryhackme-badges.s3.amazonaws.com/qrxnz.png)
+![tryhackme-profile](https://tryhackme-badges.s3.amazonaws.com/qrxnz.png){: width="50%"}
 
 ### 📨 You can reach me at
 
