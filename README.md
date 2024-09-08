@@ -1,14 +1,6 @@
 ## Hola 👋
 
-Hi, I’m qrxnz. I’m interested in cybersecurity and I’m also a big fan of web3 and FOSS (Free and Open Source Software). In my free time, I also enjoy solving challenges:   
-
-- HackTheBox \
-\
-![hackthebox-profile](https://www.hackthebox.com/badge/image/1104368)
-
-- TryHackMe \
-\
-![tryhackme-profile](https://tryhackme-badges.s3.amazonaws.com/qrxnz.png)
+I am a cybersecurity enthusiast, primarily interested in web and hardware. I enjoy developing open source projects, treating it as a fun activity. In my free time, I mainly ride my skateboard and read books… 🛹 ^‿^ 📚
 
 ### 📨 You can reach me at
 
