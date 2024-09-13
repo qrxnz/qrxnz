@@ -1,7 +1,7 @@
 ## Hola 👋
 
 <p align="center">
-  <img src="./img/dancing-cat-dance.gif" width="20%"/>
+  <img src="./img/dancing-cat-dance.gif" width="15%"/>
 </p>
 
 I am a cybersecurity enthusiast, primarily interested in web and hardware. I enjoy developing open source projects, treating it as a fun activity. In my free time, I mainly ride my skateboard and read books…
