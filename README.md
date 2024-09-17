@@ -17,11 +17,3 @@ I am a cybersecurity enthusiast, primarily interested in web and hardware. I enj
 * 🇵🇱 Polish
 * 🇺🇸 English
 * 🇪🇸 Spanish (Learning)
-
-### 🔥 Development stack
-
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,c,go,bash,nix,py,js,ts,bun,vue,nuxtjs,tailwind,playwright" />
-  </a>
-</p>
