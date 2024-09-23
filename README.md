@@ -1,5 +1,9 @@
 ## Hola 👋
 
+<p align="center">
+  <img src="./img/abiera-axolotl.gif" width="5%"/>
+</p>
+
 ### 👨‍💻 About me
 I am a cybersecurity enthusiast, primarily interested in web and hardware. I enjoy developing open source projects, treating it as a fun activity. In my free time, I mainly ride my skateboard and read books…
 
