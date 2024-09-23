@@ -1,7 +1,5 @@
 ## Hola 👋
 
-<div class="tenor-gif-embed" data-postid="20528939" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/abiera-axolotl-gif-20528939">Abiera Axolotl Sticker</a>from <a href="https://tenor.com/search/abiera-stickers">Abiera Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ### 👨‍💻 About me
 I am a cybersecurity enthusiast, primarily interested in web and hardware. I enjoy developing open source projects, treating it as a fun activity. In my free time, I mainly ride my skateboard and read books…
 
