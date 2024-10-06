@@ -18,5 +18,5 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 * 🇪🇸 Spanish (Learning)
 
 <p align="center" style="padding-top: 5%;">
-  <img src="./img/snow-tha-product-claudia-alexandra-feliciano.gif"/>
+  <img src="./img/snow-tha-product-claudia-alexandra-feliciano.gif" style="padding-top: 5%;"/>
 </p>
