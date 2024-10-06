@@ -17,4 +17,6 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 * 🇺🇸 English
 * 🇪🇸 Spanish (Learning)
 
-![random gif](./img/snow-tha-product-claudia-alexandra-feliciano.gif)
+<p align="center">
+  <img src="./img/snow-tha-product-claudia-alexandra-feliciano.gif"/>
+</p>
