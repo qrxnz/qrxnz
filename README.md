@@ -27,3 +27,12 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,neovim,tmux,docker,podman,proxmox,kali,nix,c,go,py,bash,lua,ts,js,vue,tailwindcss,playwright,ghactions,github,gitlab,hugo,caddy,nginx,mysql,postgresql,raspberrypi,latex,blender,ollama," />
   </a>
 </p>
+
+### 📣 Latest publications
+
+- blog
+soon ...
+
+- YouTube
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
