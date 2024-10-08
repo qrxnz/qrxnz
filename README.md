@@ -30,7 +30,7 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 
 ### 📣 Latest publications
 
-- blog
+- blog  
 soon ...
 
 - YouTube
