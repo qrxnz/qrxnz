@@ -41,7 +41,7 @@ soon ...
 
 ### 📈 Stats
 <p align="center">
-  <img src="./img/abiera-axolotl.gif" width="5%"/>
+  <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
 
 <p align="center">
