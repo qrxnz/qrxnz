@@ -38,3 +38,6 @@ soon ...
 [![Dockerlabs - BreakMySSH](https://ytcards.demolab.com/?id=wMGoQ6KicSw&title=Dockerlabs+-+BreakMySSH&lang=en&timestamp=1727699661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - BreakMySSH")](https://www.youtube.com/watch?v=wMGoQ6KicSw)
 [![Dockerlabs - Injection](https://ytcards.demolab.com/?id=wAH4WBRhWT4&title=Dockerlabs+-+Injection&lang=en&timestamp=1727200672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Injection")](https://www.youtube.com/watch?v=wAH4WBRhWT4)
 <!-- END YOUTUBE-CARDS -->
+
+### 📈 Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qrxnz&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
