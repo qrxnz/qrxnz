@@ -24,7 +24,7 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 ### 🐱 Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,androidstudio,neovim,tmux,docker,podman,lxc,proxmox,kali,nix,c,go,bash,py,jupyter,lua,ts,js,bun,vite,vue,nuxtjs,tailwindcss,playwright,hugo,jekyll,markdown,ollama,caddy,nginx,github,ghactions,githubpages,gitlab,codeberg,mariadb,postgresql,cassandra,kafka,raspberrypi,arduino,latex,gimp,canva,blender," />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscodium,neovim,tmux,docker,podman,lxc,proxmox,kali,nix,c,go,bash,py,jupyter,lua,ts,js,bun,vite,vue,nuxtjs,tailwindcss,playwright,hugo,jekyll,markdown,ollama,caddy,nginx,github,ghactions,githubpages,gitlab,codeberg,mariadb,postgresql,cassandra,kafka,raspberrypi,arduino,latex,gimp,canva,blender," />
   </a>
 </p>
 
