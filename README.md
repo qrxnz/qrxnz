@@ -21,13 +21,6 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
   <img src="./img/snow-tha-product-claudia-alexandra-feliciano.gif" style="padding-top: 5%;"/>
 </p>
 
-### 🐱 Stack
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscodium,neovim,tmux,docker,podman,lxc,proxmox,kali,nix,c,go,bash,py,jupyter,lua,ts,js,bun,vite,vue,nuxtjs,tailwindcss,playwright,hugo,jekyll,markdown,ollama,caddy,nginx,github,ghactions,githubpages,gitlab,codeberg,mariadb,mysql,postgresql,kafka,raspberrypi,arduino,latex,gimp,canva,blender," />
-  </a>
-</p>
-
 ### 📣 Latest publications
 
 - 📃 blog  
