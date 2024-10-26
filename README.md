@@ -30,13 +30,8 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 <!-- END YOUTUBE-CARDS -->
 
 - 📃 blog  
-soon ...
+soon ...  
 
-### 📈 Stats
 <p align="center">
   <img src="./img/abiera-axolotl.gif" width="10%"/>
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=qrxnz&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
