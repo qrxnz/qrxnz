@@ -8,7 +8,7 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 ### 📨 You can reach me at
 
 * Email send@qrxnz.dev
-* Mastodon `https://mastodon.social/@qrxnz`
+* [Mastodon](https://mastodon.social/@qrxnz) `https://mastodon.social/@qrxnz`
 
 ### 🌎 I can speak
 
