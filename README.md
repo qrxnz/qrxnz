@@ -9,6 +9,7 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 
 * Email send@qrxnz.dev
 * [Mastodon](https://mastodon.social/@qrxnz) `https://mastodon.social/@qrxnz`
+* [Linkedin](https://www.linkedin.com/in/karol-skoczyk-a0255b335) `https://www.linkedin.com/in/karol-skoczyk-a0255b335`
 
 ### 🌎 I can speak
 
