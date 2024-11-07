@@ -56,6 +56,7 @@ soon ...
   <p align="left">
     <a href="https://github.com/ertuil/erblog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ertuil&repo=erblog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="erblog"></a>
     <a href="https://github.com/zhaohuabing/hugo-theme-cleanwhite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zhaohuabing&repo=hugo-theme-cleanwhite&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hugo-theme-cleanwhite"></a>
+    <a href="https://github.com/arakkkkk/kanban.nvim"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arakkkkk&repo=kanban.nvim&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hugo-theme-cleanwhite"></a>
   </p>
 </details>
 
