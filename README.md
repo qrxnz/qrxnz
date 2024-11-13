@@ -1,15 +1,29 @@
-## Hola 👋
+<h3 align="center">Hola 👋</h3>
+<h3 align="center"> Karol "qrxnz" Skoczyk</h3>
+<h4 align="center">Security Researcher | CTF Player | FLOSS Contributor</h4>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@qrxnz9209"><img width="48px" alt="Youtube" title="Youtube" src="https://img.icons8.com/pulsar-color/48/youtube-play.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:send@qrxnz.dev"><img width="48px" alt="Mail" title="Mail" src="https://img.icons8.com/pulsar-color/48/apple-mail.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/karol-skoczyk-a0255b335"><img width="48px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/pulsar-color/48/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://mastodon.social/@qrxnz"><img width="48px" alt="Mastodon" title="Mastodon" src="https://img.icons8.com/pulsar-color/48/mastodon.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Discord"><img width="48px" src="https://img.icons8.com/pulsar-color/48/discord-new-logo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="#"><img width="48px" alt="Soundcloud" title="Soundcloud" src="https://img.icons8.com/pulsar-color/48/soundcloud.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://linktr.ee/qrxnz"><img width="48px" alt="Linktree" title="Linktree" src="https://img.icons8.com/pulsar-color/48/linktree.png"/></a>
+<!-- icon set https://icons8.com/icon/set/logos/pulsar-color -->
+</p>
 
 ### 👨‍💻 About me
 I am a cybersecurity enthusiast, primarily interested in web and hardware. I enjoy developing open source projects, treating it as a fun activity. In my free time, I mainly ride my skateboard and read books…
 
 I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz9209">YouTube</a> and <a href="https://odysee.com/@qrxnz:6?r=6t7UjNAVVT5zLF9LhSrzZZ479VWpVXrE">Odysee</a>
-
-### 📨 You can reach me at
-
-* Email send@qrxnz.dev
-* [Mastodon](https://mastodon.social@qrxnz) `@qrxnz@mastodon.social`
-* [Linkedin](https://www.linkedin.com/in/karol-skoczyk-a0255b335) `karol-skoczyk-a0255b335`
 
 ### 🌎 I can speak
 
