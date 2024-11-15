@@ -1,6 +1,6 @@
 <h3 align="center">Hola 👋</h3>
 <h3 align="center"> Karol "qrxnz" Skoczyk</h3>
-<h4 align="center">Security Researcher | CTF Player | FLOSS Contributor</h4>
+<!-- <h4 align="center">Security Researcher | CTF Player | FLOSS Contributor</h4> -->
 
 <!-- Social icons section -->
 <p align="center">
