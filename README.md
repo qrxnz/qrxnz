@@ -43,9 +43,7 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 [![Dockerlabs - Injection](https://ytcards.demolab.com/?id=wAH4WBRhWT4&title=Dockerlabs+-+Injection&lang=en&timestamp=1727200672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Injection")](https://www.youtube.com/watch?v=wAH4WBRhWT4)
 <!-- END YOUTUBE-CARDS -->
 
-- 📃 blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- - 📃 blog -->
 
 <details open> 
   <summary><h3>📘 My Top Open Source Projects</h3></summary>
