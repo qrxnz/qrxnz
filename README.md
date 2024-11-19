@@ -9,10 +9,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/karol-skoczyk-a0255b335"><img width="48px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/pulsar-color/48/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- <a href="https://mastodon.social/@qrxnz"><img width="48px" alt="Mastodon" title="Mastodon" src="https://img.icons8.com/pulsar-color/48/mastodon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="#" alt="Discord"><img width="48px" src="https://img.icons8.com/pulsar-color/48/discord-new-logo.png"/></a>
+  <a href="https://mastodon.social/@qrxnz"><img width="48px" alt="Mastodon" title="Mastodon" src="https://img.icons8.com/pulsar-color/48/mastodon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="#" alt="Discord"><img width="48px" src="https://img.icons8.com/pulsar-color/48/discord-new-logo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <!-- <a href="#"><img width="48px" alt="Soundcloud" title="Soundcloud" src="https://img.icons8.com/pulsar-color/48/soundcloud.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://linktr.ee/qrxnz"><img width="48px" alt="Linktree" title="Linktree" src="https://img.icons8.com/pulsar-color/48/linktree.png"/></a>
