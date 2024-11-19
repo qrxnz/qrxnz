@@ -44,7 +44,8 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 <!-- END YOUTUBE-CARDS -->
 
 - 📃 blog  
-soon ...
+<!-- POSTS:START -->
+<!-- POSTS:END -->
 
 <details open> 
   <summary><h3>📘 My Top Open Source Projects</h3></summary>
