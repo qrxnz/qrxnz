@@ -38,6 +38,7 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 
 - 📺 YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Dockerlabs - FirstHacking](https://ytcards.demolab.com/?id=vj3hr1Y1h3s&title=Dockerlabs+-+FirstHacking&lang=en&timestamp=1732137571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - FirstHacking")](https://www.youtube.com/watch?v=vj3hr1Y1h3s)
 [![Dockerlabs - Obsession](https://ytcards.demolab.com/?id=yWcl5kkbgGk&title=Dockerlabs+-+Obsession&lang=en&timestamp=1728817181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Obsession")](https://www.youtube.com/watch?v=yWcl5kkbgGk)
 [![Dockerlabs - BreakMySSH](https://ytcards.demolab.com/?id=wMGoQ6KicSw&title=Dockerlabs+-+BreakMySSH&lang=en&timestamp=1727699661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - BreakMySSH")](https://www.youtube.com/watch?v=wMGoQ6KicSw)
 [![Dockerlabs - Injection](https://ytcards.demolab.com/?id=wAH4WBRhWT4&title=Dockerlabs+-+Injection&lang=en&timestamp=1727200672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Injection")](https://www.youtube.com/watch?v=wAH4WBRhWT4)
