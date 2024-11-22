@@ -31,22 +31,6 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 * 🇺🇸 English
 * 🇪🇸 Spanish (Learning)
 
-<p align="center" style="padding-top: 5%;">
-  <img src="./img/snow-tha-product-claudia-alexandra-feliciano.gif" style="padding-top: 5%;"/>
-</p>
-
-### 📣 Latest publications
-
-- 📺 YouTube
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Dockerlabs - FirstHacking](https://ytcards.demolab.com/?id=vj3hr1Y1h3s&title=Dockerlabs+-+FirstHacking&lang=en&timestamp=1732137571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - FirstHacking")](https://www.youtube.com/watch?v=vj3hr1Y1h3s)
-[![Dockerlabs - Obsession](https://ytcards.demolab.com/?id=yWcl5kkbgGk&title=Dockerlabs+-+Obsession&lang=en&timestamp=1728817181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Obsession")](https://www.youtube.com/watch?v=yWcl5kkbgGk)
-[![Dockerlabs - BreakMySSH](https://ytcards.demolab.com/?id=wMGoQ6KicSw&title=Dockerlabs+-+BreakMySSH&lang=en&timestamp=1727699661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - BreakMySSH")](https://www.youtube.com/watch?v=wMGoQ6KicSw)
-[![Dockerlabs - Injection](https://ytcards.demolab.com/?id=wAH4WBRhWT4&title=Dockerlabs+-+Injection&lang=en&timestamp=1727200672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Injection")](https://www.youtube.com/watch?v=wAH4WBRhWT4)
-<!-- END YOUTUBE-CARDS -->
-
-<!-- - 📃 blog -->
-
 <details open> 
   <summary><h3>📘 My Top Open Source Projects</h3></summary>
 
@@ -74,6 +58,18 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
     <a href="https://github.com/arakkkkk/kanban.nvim"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arakkkkk&repo=kanban.nvim&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hugo-theme-cleanwhite"></a>
   </p>
 </details>
+
+### 📣 Latest publications
+
+- 📺 YouTube
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Dockerlabs - FirstHacking](https://ytcards.demolab.com/?id=vj3hr1Y1h3s&title=Dockerlabs+-+FirstHacking&lang=en&timestamp=1732137571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - FirstHacking")](https://www.youtube.com/watch?v=vj3hr1Y1h3s)
+[![Dockerlabs - Obsession](https://ytcards.demolab.com/?id=yWcl5kkbgGk&title=Dockerlabs+-+Obsession&lang=en&timestamp=1728817181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Obsession")](https://www.youtube.com/watch?v=yWcl5kkbgGk)
+[![Dockerlabs - BreakMySSH](https://ytcards.demolab.com/?id=wMGoQ6KicSw&title=Dockerlabs+-+BreakMySSH&lang=en&timestamp=1727699661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - BreakMySSH")](https://www.youtube.com/watch?v=wMGoQ6KicSw)
+[![Dockerlabs - Injection](https://ytcards.demolab.com/?id=wAH4WBRhWT4&title=Dockerlabs+-+Injection&lang=en&timestamp=1727200672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dockerlabs - Injection")](https://www.youtube.com/watch?v=wAH4WBRhWT4)
+<!-- END YOUTUBE-CARDS -->
+
+<!-- - 📃 blog -->
 
 <p align="center">
   <img src="./img/abiera-axolotl.gif" width="10%"/>
