@@ -1,5 +1,6 @@
 <h3 align="center">Hola 👋</h3>
-<h3 align="center"> Karol "qrxnz" Skoczyk</h3>
+<h3 align="center"> Karol Skoczyk</h3>
+<h5 align="center"> aka qrxnz</h5>
 
 <!-- Social icons section -->
 <p align="center">
