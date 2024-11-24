@@ -33,7 +33,6 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 
 <details open> 
   <summary><h3>📘 My Top Open Source Projects</h3></summary>
-
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
@@ -43,7 +42,6 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
     <a href="https://github.com/qrxnz/blog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qrxnz&repo=blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/qrxnz/qrack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qrxnz&repo=qrack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/qrxnz/jsh"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qrxnz&repo=jsh&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  </p>
     <a href="https://github.com/qrxnz/notes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qrxnz&repo=notes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 
