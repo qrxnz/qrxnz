@@ -82,3 +82,4 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 ### 📈 Stats
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=qrxnz&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/><img width="425" src="https://streak-stats.demolab.com/?user=qrxnz&theme=tokyonight"/>
+<img width="825" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrxnz&layout=compact&theme=tokyonight"/>
