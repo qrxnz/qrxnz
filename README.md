@@ -77,12 +77,3 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 <p align="center">
   <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
-
-
-### 📈 Stats
-
-<p align="center">
-  <img height="157" src="https://github-readme-stats.vercel.app/api?username=qrxnz&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img height="157" src="https://streak-stats.demolab.com/?user=qrxnz&theme=tokyonight"/>
-  <img height="157" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrxnz&layout=compact&theme=tokyonight"/>
-</p>
