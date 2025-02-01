@@ -72,6 +72,15 @@ I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz
 
 <!-- - 📃 blog -->
 
+### 📈 Stats
+
+</h4>
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qrxnz&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<!--🖼️⭐🔱STARRED/FORK-->
+<h4 align="right">
+
 <p align="center">
   <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
