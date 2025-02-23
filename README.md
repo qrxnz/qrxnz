@@ -25,12 +25,6 @@ I am a cybersecurity enthusiast, primarily interested in web and hardware. I enj
 
 I'm trying to regularly upload videos on <a href="https://www.youtube.com/@qrxnz9209">YouTube</a> and <a href="https://odysee.com/@qrxnz:6?r=6t7UjNAVVT5zLF9LhSrzZZ479VWpVXrE">Odysee</a>
 
-### 🌎 I can speak
-
-* 🇵🇱 Polish
-* 🇺🇸 English
-* 🇪🇸 Spanish (Learning)
-
 <details open> 
   <summary><h3>📘 My Top Open Source Projects</h3></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
