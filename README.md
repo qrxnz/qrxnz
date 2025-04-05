@@ -8,8 +8,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:send@qrxnz.dev"><img width="48px" alt="Mail" title="Mail" src="https://img.icons8.com/pulsar-color/48/apple-mail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/karol-skoczyk-a0255b335"><img width="48px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/pulsar-color/48/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://mastodon.social/@qrxnz"><img width="48px" alt="Mastodon" title="Mastodon" src="https://img.icons8.com/pulsar-color/48/mastodon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="#" alt="Discord"><img width="48px" src="https://img.icons8.com/pulsar-color/48/discord-new-logo.png"/></a>
