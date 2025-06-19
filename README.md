@@ -27,10 +27,9 @@ I am a cybersecurity researcher, interested in web and hardware. I enjoy develop
 ### 🤝 Projects I help maintain
 - [notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW) - Not The Hidden Wiki - The largest repository of links related to cybersecurity
 
-
-### 🪞 Mirror
-You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
-
 <p align="center">
   <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
+
+### 🪞 Mirror
+You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
