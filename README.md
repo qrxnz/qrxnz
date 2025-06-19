@@ -18,6 +18,16 @@
 
 I am a cybersecurity researcher, interested in web and hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books...
 
+### My projects
+[nxt](https://github.com/qrxnz/nxt) - Simple wrapper for nix-templates created using nix & charmbracelet's gum 
+[ipl](https://github.com/qrxnz/ipl) - Simple tool for displaying information about network interfaces
+[stego-toolkit-nix](https://github.com/qrxnz/stego-toolkit-nix) - The finest collection of steganography tools. You like Docker? You like Podman? You love Nix
+[qrack](https://github.com/qrxnz/qrack) - Simple bruteforcer for CrackMe binaries
+
+### Projects I help maintain
+[notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW) - Not The Hidden Wiki - The largest repository of links related to cybersecurity
+
+
 ### 🪞 Mirror
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 
