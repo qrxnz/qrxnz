@@ -28,8 +28,7 @@ I am a cybersecurity researcher, interested in web and hardware. I enjoy develop
 - [stego-toolkit-nix](https://github.com/qrxnz/stego-toolkit-nix) - The finest collection of steganography tools. You like Docker? You like Podman? You love Nix
 - [qrack](https://github.com/qrxnz/qrack) - Simple bruteforcer for CrackMe binaries
 
+You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
+
 ### 🤝 Projects I help maintain
 - [notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW) - Not The Hidden Wiki - The largest repository of links related to cybersecurity
-
-### 🪞 Mirror
-You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
