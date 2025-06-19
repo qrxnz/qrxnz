@@ -24,3 +24,5 @@ You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 <p align="center">
   <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
+
+![Metrics](/github-metrics.svg)
