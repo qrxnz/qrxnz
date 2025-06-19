@@ -16,7 +16,7 @@
 <!-- icon set https://icons8.com/icon/set/logos/pulsar-color -->
 </p>
 
-I am a cybersecurity researcher, interested in web and hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books.
+I am a cybersecurity researcher, interested in web and hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books...
 
 ### 📦 Mirror
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
