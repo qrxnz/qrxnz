@@ -18,7 +18,7 @@
 
 I am a cybersecurity researcher, interested in web and hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books...
 
-### 📦 Mirror
+### 🪞 Mirror
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 
 <p align="center">
