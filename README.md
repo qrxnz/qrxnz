@@ -16,6 +16,10 @@
 <!-- icon set https://icons8.com/icon/set/logos/pulsar-color -->
 </p>
 
+<p align="center">
+  <img src="./img/abiera-axolotl.gif" width="10%"/>
+</p>
+
 I am a cybersecurity researcher, interested in web and hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books...
 
 ### 🧑‍💻 My projects
@@ -26,10 +30,6 @@ I am a cybersecurity researcher, interested in web and hardware. I enjoy develop
 
 ### 🤝 Projects I help maintain
 - [notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW) - Not The Hidden Wiki - The largest repository of links related to cybersecurity
-
-<p align="center">
-  <img src="./img/abiera-axolotl.gif" width="10%"/>
-</p>
 
 ### 🪞 Mirror
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
