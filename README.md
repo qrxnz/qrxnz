@@ -38,3 +38,6 @@ You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 - 📺 YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+- 📝 Blog
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
