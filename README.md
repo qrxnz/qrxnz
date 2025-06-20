@@ -37,6 +37,7 @@ You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 
 - 📺 YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
+[![usbkiller v0.0.1 #coding #python #chatgpt #programming #linux #code #windows #javascript #software](https://ytcards.demolab.com/?id=lvoMcsOS-3I&title=usbkiller+v0.0.1+%23coding+%23python+%23chatgpt+%23programming+%23linux+%23code+%23windows+%23javascript+%23software&lang=en&timestamp=1732917585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "usbkiller v0.0.1 #coding #python #chatgpt #programming #linux #code #windows #javascript #software")](https://www.youtube.com/shorts/lvoMcsOS-3I)
 <!-- END YOUTUBE-CARDS -->
 - 📝 Blog
 <!--START_SECTION:feed-->
