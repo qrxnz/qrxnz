@@ -20,7 +20,7 @@
   <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
 
-I am a cybersecurity researcher, interested in web and hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books...
+I am a cybersecurity researcher, mainly interested in hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books...
 
 ### 🧑‍💻 My projects
 - [nxt](https://github.com/qrxnz/nxt) - Simple wrapper for nix-templates created using nix & charmbracelet's gum
