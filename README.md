@@ -4,8 +4,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@qrxnz9209"><img width="48px" alt="Youtube" title="Youtube" src="https://img.icons8.com/pulsar-color/48/youtube-play.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:send@qrxnz.dev"><img width="48px" alt="Mail" title="Mail" src="https://img.icons8.com/pulsar-color/48/apple-mail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="#"><img width="48px" alt="Soundcloud" title="Soundcloud" src="https://img.icons8.com/pulsar-color/48/soundcloud.png"></a>
