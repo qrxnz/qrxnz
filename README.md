@@ -16,6 +16,8 @@
   <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
 
+### >(.__.)<
+
 I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books... I don't like social media, you can't find me there anymore, but you can visit my [blog!](https://qrxnz.dev/) Yes, I like axolotls, how did you know?
 
 ### >(.__.)<
