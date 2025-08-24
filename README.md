@@ -48,3 +48,6 @@ I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and
 - ✨ [blog](https://github.com/qrxnz/blog) - Personal blog built with hugo framework
 
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
+
+#### 🤝 Projects I help maintain
+- ✨ [notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW) - Not The Hidden Wiki - The largest repository of links related to cybersecurity
