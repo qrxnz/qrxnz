@@ -44,7 +44,7 @@ I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and
 - ✨ [stego-toolkit-nix](https://github.com/qrxnz/stego-toolkit-nix) - The finest collection of steganography tools. You like Docker? You like Podman? You love Nix <3
 - ✨ [nveem](https://github.com/qrxnz/nveem) - Personal neovim configuration with nix flake support
 - ✨ [qrack](https://github.com/qrxnz/qrack) - Simple bruteforcer for CrackMe binaries / CTF challegne solver
+- ✨ [dotfiles](https://github.com/qrxnz/dotfiles) - Linux/MacOS dotfiles & NixOS configuration built with Snowfall. My setup is tailored for IT security and DevOps tasks
 - ✨ [blog](https://github.com/qrxnz/blog) - Personal blog built with hugo framework
-- ✨ [dotfiles](https://github.com/qrxnz/dotfiles) - Linux/MacOS dotfiles and NixOS configuration built with Snowfall. My setup is tailored for IT security and DevOps tasks
 
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
