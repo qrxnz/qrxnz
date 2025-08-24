@@ -37,4 +37,14 @@ I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and
 
 ### >(.__.)<
 
+#### Recent projects
+
+- ✨ [ipl](https://github.com/qrxnz/ipl) - A simple command-line tool for displaying local network interface information
+- ✨ [nxt](https://github.com/qrxnz/nxt) - Simple wrapper for nix-templates created using nix & charmbracelet's gum! You like bubble gum?
+- ✨ [stego-toolkit-nix](https://github.com/qrxnz/stego-toolkit-nix) - The finest collection of steganography tools. You like Docker? You like Podman? You love Nix <3
+- ✨ [nveem](https://github.com/qrxnz/nveem) - Personal neovim configuration with nix flake support
+- ✨ [qrack](https://github.com/qrxnz/qrack) - Simple bruteforcer for CrackMe binaries / CTF challegne solver
+- ✨ [dotfiles](https://github.com/qrxnz/dotfiles) - Linux/MacOS dotfiles and NixOS configuration built with Snowfall. My setup is tailored for IT security and DevOps tasks
+- ✨ [blog](https://github.com/qrxnz/blog) - Personal blog built with hugo framework
+
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
