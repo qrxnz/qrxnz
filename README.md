@@ -37,7 +37,7 @@ I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and
 
 ### >(.__.)<
 
-#### Recent projects
+#### </> Recent projects
 
 - ✨ [ipl](https://github.com/qrxnz/ipl) - A simple command-line tool for displaying local network interface information
 - ✨ [nxt](https://github.com/qrxnz/nxt) - Simple wrapper for nix-templates created using nix & charmbracelet's gum! You like bubble gum?
