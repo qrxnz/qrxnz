@@ -44,7 +44,7 @@ I don't like social media, you can't find me there anymore, but you can visit my
 - ✨ [ipl](https://github.com/qrxnz/ipl) - A simple command-line tool for displaying local network interface information
 - ✨ [nxt](https://github.com/qrxnz/nxt) - Simple wrapper for nix-templates created using nix & charmbracelet's gum! You like bubble gum?
 - ✨ [stego-toolkit-nix](https://github.com/qrxnz/stego-toolkit-nix) - The finest collection of steganography tools. You like Docker? You like Podman? You love Nix <3
-- ✨ [nveem](https://github.com/qrxnz/nveem) - Personal neovim configuration with nix flake support
+- ✨ [nveem](https://github.com/qrxnz/nveem) - Neovim configuration buit with nixvim
 - ✨ [qrack](https://github.com/qrxnz/qrack) - Simple bruteforcer for CrackMe binaries / CTF challegne solver
 - ✨ [dotfiles](https://github.com/qrxnz/dotfiles) - Linux/MacOS .files & NixOS configuration built with Snowfall. My setup is tailored for IT security & DevOps tasks
 - ✨ [blog](https://github.com/qrxnz/blog) - Personal blog built with hugo framework
