@@ -53,3 +53,7 @@ You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 
 #### 🤝 Projects I help maintain
 - ✨ [notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW) - Not The Hidden Wiki - The largest repository of links related to cybersecurity
+
+<div align="center">
+  <img height="150" src="https://gitlab.com/uploads/-/system/project/avatar/40020538/37decf44c034050aa85e287982dfc91d5841db78_1_.png"  />
+</div>
