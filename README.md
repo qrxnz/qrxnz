@@ -41,6 +41,7 @@ I don't like social media, you can't find me there anymore, but you can visit my
 
 #### </> Recent projects
 
+- ✨ [gopuntes](https://github.com/qrxnz/gopuntes) - A flexible note-browsing tool 💖🇪🇸
 - ✨ [ipl](https://github.com/qrxnz/ipl) - A simple command-line tool for displaying local network interface information written in Go
 - ✨ [nxt](https://github.com/qrxnz/nxt) - Simple wrapper for nix-templates created using nix & charmbracelet's gum! You like bubble gum?
 - ✨ [stego-toolkit-nix](https://github.com/qrxnz/stego-toolkit-nix) - The finest collection of steganography tools. You like Docker? You like Podman? You love Nix <3
