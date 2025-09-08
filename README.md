@@ -16,20 +16,30 @@
   <img src="./img/abiera-axolotl.gif" width="10%"/>
 </p>
 
-### >(.__.)<
+### >(.\_\_.)<
 
 I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books... \
 \
 I don't like social media, you can't find me there anymore, but you can visit my [blog!](https://qrxnz.dev/)
 
 #### 📣 Latest publications
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Vulnlab :: Sync Writeup](https://qrxnz.dev/p/vulnlab-sync-writeup/)
 - [Vulnlab :: Build Writeup](https://qrxnz.dev/p/vulnlab-build-writeup/)
 - [Resources for learning Nix and NixOS!](https://qrxnz.dev/p/resources-for-learning-nix-and-nixos/)
 <!-- BLOG-POST-LIST:END -->
 
-### >(.__.)<
+#### 💖 Main stack
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,nix,bash,js,ts,bun,tailwind,hugo,playwright,githubactions" />
+  </a>
+</p>
+
+### >(.\_\_.)<
 
 #### </> Recent projects
 
@@ -45,6 +55,7 @@ I don't like social media, you can't find me there anymore, but you can visit my
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 
 #### 🤝 Projects I help maintain
+
 - ✨ [notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW) - Not The Hidden Wiki - The largest repository of links related to cybersecurity
 
 <div align="center">
