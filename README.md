@@ -23,6 +23,9 @@ I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and
 I don't like social media, you can't find me there anymore, but you can visit my [blog!](https://qrxnz.dev/) Yes, I like axolotls, how did you know?
 
 <!-- BLOG-POST-LIST:START -->
+- [Vulnlab :: Sync Writeup](https://qrxnz.dev/p/vulnlab-sync-writeup/)
+- [Vulnlab :: Build Writeup](https://qrxnz.dev/p/vulnlab-build-writeup/)
+- [Resources for learning Nix and NixOS!](https://qrxnz.dev/p/resources-for-learning-nix-and-nixos/)
 <!-- BLOG-POST-LIST:END -->
 
 <pre>
