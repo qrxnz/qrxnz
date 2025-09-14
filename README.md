@@ -27,9 +27,9 @@ I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and
 #### 📣 Latest publications
 
 <!-- BLOG-POST-LIST:START -->
-- [Vulnlab :: Sync Writeup](https://qrxnz.dev/posts/sync_vl/)
-- [Vulnlab :: Build Writeup](https://qrxnz.dev/posts/build_vl/)
-- [Resources for learning Nix and NixOS!](https://qrxnz.dev/posts/nix-resources/)
+- [Vulnlab :: Sync Writeup](https://blog.qrxnz.dev/posts/sync_vl/)
+- [Vulnlab :: Build Writeup](https://blog.qrxnz.dev/posts/build_vl/)
+- [Resources for learning Nix and NixOS!](https://blog.qrxnz.dev/posts/nix-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 💖 Main stack
