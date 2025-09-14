@@ -36,7 +36,7 @@ I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and
 
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,nix,bash,js,ts,bun,tailwind,hugo,playwright,githubactions" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,neovim,go,nix,bash,js,ts,bun,tailwind,hugo,playwright,githubactions," />
   </a>
 </p>
 
