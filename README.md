@@ -18,7 +18,7 @@
 
 ### >(.\_\_.)<
 
-I am a nerd, mainly interested in hardware. I enjoy developing FOSS projects and treat it as a fun activity. In my free time, I mainly practice aggressive inline skating and read books... \
+I’m a computer enthusiast driven by a curiosity for how things work—which often means taking them apart first. With a background soundtrack of math rock and progressive metal, I spend my free time writing blog posts, getting lost in books, and hitting the pavement on my aggressive inline skates... \
 \
 ~~I don't like social media, you can't find me there anymore~~, but you can visit my [site!](https://qrxnz.dev/)
 
