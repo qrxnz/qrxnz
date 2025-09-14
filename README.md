@@ -49,7 +49,6 @@ I don't like social media, you can't find me there anymore, but you can visit my
 - ✨ [nveem](https://github.com/qrxnz/nveem) - Neovim configuration buit with nixvim
 - ✨ [qrack](https://github.com/qrxnz/qrack) - Simple bruteforcer for CrackMe binaries / CTF challegne solver
 - ✨ [dotfiles](https://github.com/qrxnz/dotfiles) - Linux/MacOS .files & NixOS configuration built with Snowfall. My setup is tailored for IT security & DevOps tasks
-- ✨ [blog](https://github.com/qrxnz/blog) - Personal blog built with hugo framework
 
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 
