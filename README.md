@@ -26,7 +26,7 @@ I’m a computer enthusiast driven by a curiosity for how things work—which of
 
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,neovim,go,nix,bash,js,ts,bun,tailwind,hugo,playwright,githubactions," />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,neovim,go,nix,bash,hugo,githubactions," />
   </a>
 </p>
 
