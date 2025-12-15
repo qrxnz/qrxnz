@@ -10,6 +10,8 @@
 
 I’m a computer enthusiast driven by a curiosity for how things work—which often means taking them apart first. With a background soundtrack of math rock and progressive metal, I spend my free time writing blog posts, getting lost in books, and hitting the pavement on my aggressive inline skates...
 
+**Since December 2025, primarily working as a music producer**
+
 #### 📣 Latest publications
 
 <!-- BLOG-POST-LIST:START -->
