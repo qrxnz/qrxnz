@@ -15,6 +15,7 @@ I’m a computer enthusiast driven by a curiosity for how things work—which of
 #### 📣 Latest publications
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Vulnlab :: Sync Writeup](https://blog.qrxnz.dev/posts/sync_vl/)
 - [Vulnlab :: Build Writeup](https://blog.qrxnz.dev/posts/build_vl/)
 - [Resources for learning Nix and NixOS!](https://blog.qrxnz.dev/posts/nix-resources/)
@@ -32,6 +33,7 @@ I’m a computer enthusiast driven by a curiosity for how things work—which of
 
 #### </> Recent projects
 
+- ✨ [mremotedec](https://github.com/qrxnz/mremotedec) - A simple tool to decrypt mRemoteNG connection files (.xml)
 - ✨ [gopuntes](https://github.com/qrxnz/gopuntes) - A flexible note-browsing tool 💖🇪🇸
 - ✨ [ipl](https://github.com/qrxnz/ipl) - A simple command-line tool for displaying local network interface information written in Go
 - ✨ [nxt](https://github.com/qrxnz/nxt) - Simple wrapper for nix-templates created using nix & charmbracelet's gum! You like bubble gum?
