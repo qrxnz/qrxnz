@@ -15,6 +15,7 @@ I’m a computer enthusiast driven by a curiosity for how things work—which of
 #### 📣 Latest publications
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Vulnlab :: Sync Writeup](https://blog.qrxnz.dev/posts/sync_vl/)
 - [Vulnlab :: Build Writeup](https://blog.qrxnz.dev/posts/build_vl/)
 - [Resources for learning Nix and NixOS!](https://blog.qrxnz.dev/posts/nix-resources/)
@@ -39,7 +40,6 @@ I’m a computer enthusiast driven by a curiosity for how things work—which of
 - ✨ [stego-toolkit-nix](https://github.com/qrxnz/stego-toolkit-nix) - The finest collection of steganography tools. You like Docker? You like Podman? You love Nix <3
 - ✨ [nveem](https://github.com/qrxnz/nveem) - Neovim configuration buit with nixvim
 - ✨ [qrack](https://github.com/qrxnz/qrack) - Simple bruteforcer for CrackMe binaries / CTF challegne solver
-- ✨ [dotfiles](https://github.com/qrxnz/dotfiles) - Linux/MacOS .files & NixOS configuration built with Snowfall
 
 You can also find my repositories on [Codeberg](https://codeberg.org/qrxnz)
 
